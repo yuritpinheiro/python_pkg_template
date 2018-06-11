@@ -13,13 +13,13 @@ setup(name='example_pkg',
       classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 2.7',  #
+        'Programming Language :: Python :: 2.7',
         'Topic :: Text Processing :: Linguistic',
       ],
       keywords='alarm',
-      url='http://github.com/jonh-doelorem_ipsem',
+      url='http://github.com/jonh-doe',
       author='Jonh Doe',
-      author_email='author@email.com',
+      author_email='jonh_doe@email.com',
       license='MIT',
       packages=['example_pkg'],
       install_requires=[
